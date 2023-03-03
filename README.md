@@ -1,6 +1,6 @@
 # ktor-chatgpt-slackbot
 
-This project is based on ktor-based Integrate OpenAI's ChatGPT with in Slack.
+This project is ktor-based Integrate OpenAI's ChatGPT with in Slack.
 
 ## How to Use
 
